@@ -4,7 +4,7 @@
  ## Para visualizar o projeto acesse:
  https://irion-silva.github.io/Challenge-I/
 
- ##Tecnologias utilizadas:
+ ## Tecnologias utilizadas:
  Javascript
  HTML
  CSS
