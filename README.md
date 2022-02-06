@@ -5,6 +5,6 @@
  https://irion-silva.github.io/Challenge-I/
 
  ## Tecnologias utilizadas:
- Javascript<br />
- HTML<br />
- CSS
+ • Javascript<br />
+ • HTML<br />
+ • CSS
