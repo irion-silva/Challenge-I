@@ -1,2 +1,10 @@
 # Challenge-I
- Projeto de um decodificador de texto criado durante o curso de Programação Front-end oferecido pela Alura e Oracle
+ Projeto de um codificador/decodificador de texto criado durante o curso de Programação oferecido pela Alura e Oracle.
+
+ ## Para visualizar o projeto acesse:
+ https://irion-silva.github.io/Challenge-I/
+
+ ##Tecnologias utilizadas:
+ Javascript
+ HTML
+ CSS
