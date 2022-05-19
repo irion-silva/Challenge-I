@@ -2,7 +2,7 @@
  Projeto de um codificador/decodificador de texto criado durante o curso de Programação oferecido pela Alura e Oracle.
 
  ## Para visualizar o projeto acesse:
- irion-silva.github.io/barbearia-alura/
+ https://irion-silva.github.io/Challenge-I/
 
  ## Tecnologias utilizadas:
  • Javascript<br />
